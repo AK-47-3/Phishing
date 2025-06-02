@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* আপনি চাইলে এখানে কিছু কাস্টম ফন্ট বা গ্লোবাল স্টাইল যোগ করতে পারেন */
+body {
+  font-family: 'Inter', sans-serif; /* Inter ফন্ট ব্যবহার করতে চাইলে ইম্পোর্ট করতে হবে */
+}
